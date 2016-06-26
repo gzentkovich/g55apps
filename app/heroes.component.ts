@@ -92,4 +92,3 @@ export class AppComponent implements OnInit {
     this.selectedHero = hero;
   }
 }
-
